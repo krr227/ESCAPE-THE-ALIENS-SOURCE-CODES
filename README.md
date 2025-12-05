@@ -1,6 +1,9 @@
 # ESCAPE-THE-ALIENS-SOURCE-CODES
 A retro-inspired FPS built from scratch using C + SDL2, featuring classic Wolfenstein-style ray-casting, pixel-art assets, and simple arcade-like gameplay.
 This repository contains the full source code, intended for learning, experimentation, and future development.
+to donwload this game easily, go to
+https://krr-exe.itch.io/escape-the-ufov006
+and download
 
 90s-style ray-casting renderer (no OpenGL)
 
